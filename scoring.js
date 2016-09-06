@@ -192,7 +192,8 @@ var typeInfo = function() {
         return this.mainType == "连衣裙"
             || this.mainType == "外套"
             || this.mainType == "上衣"
-            || this.mainType == "下装";
+            || this.mainType == "下装"
+            || this.mainType == "饰品";
       }
     }
   }
