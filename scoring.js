@@ -193,7 +193,6 @@ var typeInfo = function() {
             || this.mainType == "外套"
             || this.mainType == "上衣"
             || this.mainType == "下装"
-            || this.mainType == "饰品";
             || this.mainType == "饰品"
             || this.mainType == "发型"
             || this.mainType == "袜子"
